@@ -1,3 +1,5 @@
+
+![Dmeetrogon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dmeetrogon&show_icons=true&theme=tokyonight)
 # 👋 Hi, I'm Dmeetrogon!
 
 **Backend Developer** | Python & C# Enthusiast | Telegram Bots Tinkerer  
@@ -43,7 +45,6 @@ If you enjoy my work and want to support what I do, here are some ways to help o
 
 > Every cup of tea = more code, more bots, more motivation 🚀
 
-![Dmeetrogon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dmeetrogon&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dmeetrogon&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Dmeetrogon&theme=tokyonight)
 ![Trophy](https://github-profile-trophy.vercel.app/?username=Dmeetrogon&theme=tokyonight&row=1)
