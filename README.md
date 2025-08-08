@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hi, I'm Dmeetrogon!
 
-<!--
-**Dmeetrogon/Dmeetrogon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Backend Developer** | Python & C# Enthusiast | Telegram Bots Tinkerer  
+_Still in school, but already breaking stuff (on purpose, mostly. Pretty always it's my stuff)_
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+- **Languages:** Python, C#
+- **Specialty:** Telegram Bots (I talk to bots more than people sometimes, heh)
+- **Linux:** Confident server admin & security enthusiast
+- **VPN:** Can set up and manage 3x-ui VPN
+- **Exploring:** Sports programming, InfoSec (HTB rookie), and always leveling up my English (B2 rn, but only right now)
+
+---
+
+## 🚀 About Me
+
+- 📚 Still in school!
+- 👾 Currently learning:
+  - English (aiming for C1 and beyond)
+  - Sports programming (because why solve problems slowly?)
+  - Info security on Hack The Box
+- 🛡️ Favorite game: [Mindustry](https://mindustrygame.github.io/)
+- 🖥️ Experienced in handling Linux servers—security, hardening, and smooth operations are my thing
+- 🌐 I can set up and maintain [3x-ui VPN](https://github.com/MHSanaei/3x-ui) servers for you or your project
+
+---
+
+## 💬 Let’s Connect!
+
+- 📲 [Telegram](https://t.me/dmeetprofile)
+
+---
+
+## ❤️ Donate and Support
+
+If you enjoy my work and want to support what I do, here are some ways to help out:
+
+- 💰 Donate via [CryptoBot](https://t.me/send?start=IVFCR3tEjcyk)
+- 💎 TON: `UQCOKDO9dRYNe3Us8FDK2Ctz6B4fhsonaoKpK93bqneFAyJL`
+
+> Every cup of tea = more code, more bots, more motivation 🚀
+
+![Dmeetrogon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dmeetrogon&show_icons=true&theme=tokyonight)
